@@ -1,1 +1,1 @@
-print("bé khánh đẹp gái chết mẹ")
+print("bé khánh đẹp gái chết mẹ luôn")

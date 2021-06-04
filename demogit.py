@@ -1,0 +1,1 @@
+print("bé khánh đẹp gái chết mẹ")
